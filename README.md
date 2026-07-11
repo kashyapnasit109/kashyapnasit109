@@ -24,37 +24,58 @@ Here are some ideas to get you started:
 </div>
 
 ---
+<div align="center">
 
-## BOOT SEQUENCE
+<!-- ===================== -->
+<!--        BANNER         -->
+<!-- ===================== -->
 
----
+<!-- Banner.svg -->
 
-## OPERATING PRINCIPLES
+<!-- Typing Animation -->
 
----
+</div>
 
-## THE TOOLBOX
+<br>
 
----
-
-## THE WORKSHOP
-
----
-
-## EVIDENCE
+# Ⅰ • Arrival
 
 ---
 
-## CURRENT CURIOSITIES
+# Ⅱ • Boot Sequence
 
 ---
 
-## BEYOND CODE
+# Ⅲ • Operating Principles
 
 ---
 
-## CONNECT
+# Ⅳ • Who Am I?
 
 ---
 
-<!-- Footer -->
+# Ⅴ • The Toolbox
+
+---
+
+# Ⅵ • The Workshop
+
+---
+
+# Ⅶ • Evidence
+
+---
+
+# Ⅷ • Current Curiosities
+
+---
+
+# Ⅸ • Beyond Code
+
+---
+
+# Ⅹ • Connect
+
+---
+
+# Final Transmission
