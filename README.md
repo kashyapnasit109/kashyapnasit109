@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 
 <!-- Banner -->
 
+<p align="center">
+  <img src="./assets/svg/banner.svg" width="100%" alt="Curiosity Engine Banner">
+</p>
+
 <!-- Typing Animation -->
 
 </div>
