@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img src="./assets/svg/banner.svg" width="100%" alt="Curiosity Engine Banner">
 </p>
 
-                    # KASHYAP NASIT
+# KASHYAP NASIT
 ### *Driven by curiosity. Guided by understanding. Defined by creation.*
 
 > Engineering clarity from complexity.
@@ -67,9 +67,11 @@ while (alive)
     Improve();
 
     Repeat();
+
 }
 ```
 
+<br>
 <br>
 
 ```
@@ -84,6 +86,7 @@ Loading Systems Thinking.......... ███████████████
 Loading Persistence............... ███████████████ 100%
 
 Status............................ ONLINE
+
 ```
 
 > Every system tells a story.
