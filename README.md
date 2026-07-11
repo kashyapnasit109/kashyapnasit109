@@ -14,3 +14,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+<!-- Banner -->
+
+<!-- Typing Animation -->
+
+</div>
+
+---
+
+## BOOT SEQUENCE
+
+---
+
+## OPERATING PRINCIPLES
+
+---
+
+## THE TOOLBOX
+
+---
+
+## THE WORKSHOP
+
+---
+
+## EVIDENCE
+
+---
+
+## CURRENT CURIOSITIES
+
+---
+
+## BEYOND CODE
+
+---
+
+## CONNECT
+
+---
+
+<!-- Footer -->
