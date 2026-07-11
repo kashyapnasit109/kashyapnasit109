@@ -19,13 +19,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="./assets/svg/banner.svg" width="100%" alt="Banner"/>
-
 <br>
 
-# KASHYAP NASIT
-
-### Curiosity → Understanding → Creation
 
 *Building intelligent systems from first principles.*
 
@@ -43,8 +38,25 @@ Here are some ideas to get you started:
   <img src="./assets/svg/banner.svg" width="100%" alt="Curiosity Engine Banner">
 </p>
 
+# KASHYAP NASIT
+
+### Curiosity → Understanding → Creation
+
+> Engineering clarity from complexity.
+
 <!-- Typing Animation -->
 
+Computer Science Student
+
+Engineering Intelligent Systems
+
+Machine Learning Enthusiast
+
+Data Analytics Explorer
+
+Full Stack Developer
+
+Always Exploring
 </div>
 
 ---
