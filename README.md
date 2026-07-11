@@ -17,6 +17,26 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<div align="center">
+
+<img src="./assets/svg/banner.svg" width="100%" alt="Banner"/>
+
+<br>
+
+# KASHYAP NASIT
+
+### Curiosity → Understanding → Creation
+
+*Building intelligent systems from first principles.*
+
+<br>
+
+<!-- Typing animation will go here -->
+
+</div>
+
+---
+
 <!-- Banner -->
 
 <!-- Typing Animation -->
