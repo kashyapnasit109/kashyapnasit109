@@ -1,0 +1,88 @@
+<svg width="920" height="480" viewBox="0 0 920 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nodeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6c5ce7"/>
+      <stop offset="100%" stop-color="#00cec9"/>
+    </linearGradient>
+  </defs>
+  <rect width="920" height="480" fill="#0d0d14" rx="14"/>
+  <text x="26" y="36" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" letter-spacing="2" fill="#6c5ce7">TECHNOLOGY CONSTELLATION</text>
+
+  <circle cx="460" cy="240" r="26" fill="url(#nodeGrad)"/>
+  <text x="460" y="245" font-family="Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#0d0d14" text-anchor="middle">KN</text>
+  <line x1="460" y1="240" x2="460.0" y2="110.0" stroke="#3a3a52" stroke-width="1.4" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.10s" dur="0.5s" fill="freeze"/></line>
+  <circle cx="460.0" cy="110.0" r="16" fill="#16161f" stroke="#a29bfe" stroke-width="1.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.10s" dur="0.5s" fill="freeze"/></circle>
+  <text x="460.0" y="86.0" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#e6e6f0" text-anchor="middle" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.10s" dur="0.5s" fill="freeze"/>Languages</text>
+  <line x1="460.0" y1="110.0" x2="421.0" y2="54.3" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="421.0" cy="54.3" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.4s" fill="freeze"/></circle>
+  <text x="413.0" y="46.3" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="end" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.4s" fill="freeze"/>Python</text>
+  <line x1="460.0" y1="110.0" x2="446.2" y2="43.4" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="446.2" cy="43.4" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.4s" fill="freeze"/></circle>
+  <text x="438.2" y="35.4" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="end" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.4s" fill="freeze"/>JavaScript</text>
+  <line x1="460.0" y1="110.0" x2="473.8" y2="43.4" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="473.8" cy="43.4" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.4s" fill="freeze"/></circle>
+  <text x="481.8" y="35.4" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="start" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.4s" fill="freeze"/>C++</text>
+  <line x1="460.0" y1="110.0" x2="499.0" y2="54.3" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="499.0" cy="54.3" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.4s" fill="freeze"/></circle>
+  <text x="507.0" y="46.3" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="start" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.4s" fill="freeze"/>SQL</text>
+  <line x1="460" y1="240" x2="583.6" y2="199.8" stroke="#3a3a52" stroke-width="1.4" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.28s" dur="0.5s" fill="freeze"/></line>
+  <circle cx="583.6" cy="199.8" r="16" fill="#16161f" stroke="#a29bfe" stroke-width="1.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.28s" dur="0.5s" fill="freeze"/></circle>
+  <text x="583.6" y="175.8" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#e6e6f0" text-anchor="middle" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.28s" dur="0.5s" fill="freeze"/>AI / ML</text>
+  <line x1="583.6" y1="199.8" x2="624.6" y2="145.5" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="624.6" cy="145.5" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.4s" fill="freeze"/></circle>
+  <text x="632.6" y="137.5" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="start" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.4s" fill="freeze"/>Gemini API</text>
+  <line x1="583.6" y1="199.8" x2="642.7" y2="166.2" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="642.7" cy="166.2" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.4s" fill="freeze"/></circle>
+  <text x="650.7" y="158.2" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="start" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.4s" fill="freeze"/>Scikit-Learn</text>
+  <line x1="583.6" y1="199.8" x2="651.2" y2="192.3" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="651.2" cy="192.3" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.4s" fill="freeze"/></circle>
+  <text x="659.2" y="184.3" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="start" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.4s" fill="freeze"/>OCR</text>
+  <line x1="583.6" y1="199.8" x2="648.7" y2="219.7" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="648.7" cy="219.7" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.4s" fill="freeze"/></circle>
+  <text x="656.7" y="233.7" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="start" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.4s" fill="freeze"/>Pandas</text>
+  <line x1="460" y1="240" x2="536.4" y2="345.2" stroke="#3a3a52" stroke-width="1.4" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.46s" dur="0.5s" fill="freeze"/></line>
+  <circle cx="536.4" cy="345.2" r="16" fill="#16161f" stroke="#a29bfe" stroke-width="1.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.46s" dur="0.5s" fill="freeze"/></circle>
+  <text x="536.4" y="379.2" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#e6e6f0" text-anchor="middle" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.46s" dur="0.5s" fill="freeze"/>Backend</text>
+  <line x1="536.4" y1="345.2" x2="600.7" y2="367.3" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="600.7" cy="367.3" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.4s" fill="freeze"/></circle>
+  <text x="608.7" y="381.3" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="start" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.4s" fill="freeze"/>Node.js</text>
+  <line x1="536.4" y1="345.2" x2="586.7" y2="391.0" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="586.7" cy="391.0" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.4s" fill="freeze"/></circle>
+  <text x="594.7" y="405.0" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="start" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.4s" fill="freeze"/>Express</text>
+  <line x1="536.4" y1="345.2" x2="564.4" y2="407.1" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="564.4" cy="407.1" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.4s" fill="freeze"/></circle>
+  <text x="572.4" y="421.1" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="start" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.4s" fill="freeze"/>MongoDB</text>
+  <line x1="536.4" y1="345.2" x2="537.6" y2="413.2" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="537.6" cy="413.2" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.4s" fill="freeze"/></circle>
+  <text x="545.6" y="427.2" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="start" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.4s" fill="freeze"/>REST</text>
+  <line x1="460" y1="240" x2="383.6" y2="345.2" stroke="#3a3a52" stroke-width="1.4" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.64s" dur="0.5s" fill="freeze"/></line>
+  <circle cx="383.6" cy="345.2" r="16" fill="#16161f" stroke="#a29bfe" stroke-width="1.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.64s" dur="0.5s" fill="freeze"/></circle>
+  <text x="383.6" y="379.2" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#e6e6f0" text-anchor="middle" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.64s" dur="0.5s" fill="freeze"/>Data</text>
+  <line x1="383.6" y1="345.2" x2="382.4" y2="413.2" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="382.4" cy="413.2" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.4s" fill="freeze"/></circle>
+  <text x="374.4" y="427.2" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="end" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.4s" fill="freeze"/>Power BI</text>
+  <line x1="383.6" y1="345.2" x2="355.6" y2="407.1" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="355.6" cy="407.1" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.4s" fill="freeze"/></circle>
+  <text x="347.6" y="421.1" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="end" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.4s" fill="freeze"/>NumPy</text>
+  <line x1="383.6" y1="345.2" x2="333.3" y2="391.0" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="333.3" cy="391.0" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.4s" fill="freeze"/></circle>
+  <text x="325.3" y="405.0" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="end" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.4s" fill="freeze"/>Matplotlib</text>
+  <line x1="383.6" y1="345.2" x2="319.3" y2="367.3" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="319.3" cy="367.3" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.4s" fill="freeze"/></circle>
+  <text x="311.3" y="381.3" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="end" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.4s" fill="freeze"/>Streamlit</text>
+  <line x1="460" y1="240" x2="336.4" y2="199.8" stroke="#3a3a52" stroke-width="1.4" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.82s" dur="0.5s" fill="freeze"/></line>
+  <circle cx="336.4" cy="199.8" r="16" fill="#16161f" stroke="#a29bfe" stroke-width="1.5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.82s" dur="0.5s" fill="freeze"/></circle>
+  <text x="336.4" y="175.8" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#e6e6f0" text-anchor="middle" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.82s" dur="0.5s" fill="freeze"/>Systems</text>
+  <line x1="336.4" y1="199.8" x2="271.3" y2="219.7" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="271.3" cy="219.7" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/></circle>
+  <text x="263.3" y="233.7" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="end" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/>Architecture</text>
+  <line x1="336.4" y1="199.8" x2="268.8" y2="192.3" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="268.8" cy="192.3" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/></circle>
+  <text x="260.8" y="184.3" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="end" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/>Networks</text>
+  <line x1="336.4" y1="199.8" x2="277.3" y2="166.2" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="277.3" cy="166.2" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/></circle>
+  <text x="269.3" y="158.2" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="end" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/>Git</text>
+  <line x1="336.4" y1="199.8" x2="295.4" y2="145.5" stroke="#26263a" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/></line>
+  <circle cx="295.4" cy="145.5" r="4.5" fill="#2d2d42" stroke="#6c5ce7" stroke-width="1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/></circle>
+  <text x="287.4" y="137.5" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#9d99b3" text-anchor="end" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/>Linux</text>
+</svg>
