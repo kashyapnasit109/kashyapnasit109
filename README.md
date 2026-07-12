@@ -15,6 +15,314 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<img src="./assets/svg/banner.svg" width="100%" alt="Banner"/>
+
+<br>
+
+<h1>KASHYAP NASIT</h1>
+
+<p>
+<i>Driven by curiosity.</i><br>
+<i>Guided by understanding.</i><br>
+<i>Defined by creation.</i>
+</p>
+
+<h3>Engineering clarity from complexity.</h3>
+
+</div>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+<br>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### Identity
+
+```text
+Computer Science Student
+
+CGPA
+7.71 / 10
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+### Mission
+
+```text
+Build systems that transform
+information into intelligence.
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+### Exploring
+
+```text
+• Artificial Intelligence
+
+• Machine Learning
+
+• Data Analytics
+
+• Business Analytics
+
+• Software Architecture
+
+• System Design
+
+• Backend Engineering
+
+• Large Language Models
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+### Current State
+
+```text
+● BUILDING
+
+● LEARNING
+
+● EVOLVING
+```
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+```cpp
+while (alive)
+{
+    Observe();
+
+    Question();
+
+    Learn();
+
+    Build();
+
+    Break();
+
+    Improve();
+
+    Repeat();
+}
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **Every system hides a story.**  
+> **I enjoy discovering how it works, why it breaks, and how it can become better.**
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+
+# PHILOSOPHY
+
+</div>
+
+<br>
+
+> **I don't build projects to demonstrate what I know.**
+>
+> **I build systems to discover what I don't.**
+
+<br>
+
+```
+Question assumptions.
+
+Understand deeply.
+
+Design intentionally.
+
+Build relentlessly.
+
+Refine continuously.
+```
+
+---
+
+<div align="center">
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+# SYSTEMS
+
+Every repository is an exploration.
+
+</div>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+<table width="100%">
+<tr>
+
+<td width="50%">
+
+<h3>◉ Identity</h3>
+
+Computer Science Student
+
+CGPA • 7.71 / 10
+
+</td>
+
+<td width="50%">
+
+<h3>◉ Mission</h3>
+
+Engineering clarity from complexity.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>◉ Current Explorations</h3>
+
+• Artificial Intelligence<br>
+• Machine Learning<br>
+• Large Language Models<br>
+• Data Analytics<br>
+• Business Analytics<br>
+• Software Architecture<br>
+• System Design<br>
+• Backend Engineering
+
+</td>
+
+<td width="50%">
+
+<h3>◉ Current State</h3>
+
+🟢 Building
+
+🟢 Learning
+
+🟢 Evolving
+
+</td>
+
+</tr>
+
+</table>
+
+<div align="center">
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+<pre>
+
+while (alive)
+{
+    Observe();
+
+    Question();
+
+    Learn();
+
+    Build();
+
+    Break();
+
+    Improve();
+
+    Repeat();
+}
+
+</pre>
+
+</div>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+
+
+<div align="center">
+
 
 <div align="center">
 
