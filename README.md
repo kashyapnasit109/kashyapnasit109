@@ -219,6 +219,57 @@ Refine continuously.
 
 Every repository is an exploration.
 
+## ◉ SYSTEM 01 — NEXUS
+
+### Can attendance become intelligent instead of manual?
+
+---
+
+#### Architecture
+
+```text
+Timetable / Attendance Sheet
+
+            ↓
+
+        OCR Engine
+
+            ↓
+
+ Gemini Flash API
+
+            ↓
+
+Structured Attendance Engine
+
+            ↓
+
+MongoDB Database
+
+            ↓
+
+Attendance Analytics
+```
+
+---
+
+#### Engineering Challenges
+
+- Built resilient parsing logic for inconsistent timetable layouts across multiple classes.
+- Corrected AI-generated attendance percentage calculations by redesigning denominator computation.
+- Improved OCR reliability for noisy and differently formatted attendance sheets.
+
+---
+
+#### Outcome
+
+An intelligent attendance monitoring system that eliminates repetitive manual entry while providing accurate attendance tracking and analytics.
+
+---
+
+#### Stack
+
+`Node.js` `MongoDB` `OCR` `Gemini Flash API`
 </div>
 
 <div align="center">
