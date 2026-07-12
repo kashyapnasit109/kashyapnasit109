@@ -1,526 +1,268 @@
-<!--
-**kashyapnasit109/kashyapnasit109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
-
-<img src="./assets/svg/banner.svg" width="100%" alt="Banner"/>
-
-<br>
-
-<h1>KASHYAP NASIT</h1>
-
-<p>
-<i>Driven by curiosity.</i><br>
-<i>Guided by understanding.</i><br>
-<i>Defined by creation.</i>
-</p>
-
-<h3>Engineering clarity from complexity.</h3>
-
+  <img src="assets/svg/hero-banner.svg" width="100%" alt="Kashyap Nasit" />
 </div>
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/-LinkedIn-0d0d14?style=flat-square&logo=linkedin&logoColor=a29bfe" /></a>
+<a href="https://leetcode.com/u/your-handle/"><img src="https://img.shields.io/badge/-LeetCode-0d0d14?style=flat-square&logo=leetcode&logoColor=a29bfe" /></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-0d0d14?style=flat-square&logo=gmail&logoColor=a29bfe" /></a>
 
 </div>
 
-<br>
+<img src="assets/svg/divider.svg" width="100%" />
 
-<table align="center" width="100%">
+<br/>
+
+<table align="center">
 <tr>
+<td width="55%" valign="top">
 
-<td width="50%" valign="top">
+### Philosophy
 
-### Identity
-
-```text
-Computer Science Student
-
-CGPA
-7.71 / 10
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-### Mission
-
-```text
-Build systems that transform
-information into intelligence.
-```
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-### Exploring
-
-```text
-• Artificial Intelligence
-
-• Machine Learning
-
-• Data Analytics
-
-• Business Analytics
-
-• Software Architecture
-
-• System Design
-
-• Backend Engineering
-
-• Large Language Models
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-### Current State
-
-```text
-● BUILDING
-
-● LEARNING
-
-● EVOLVING
-```
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-```cpp
-while (alive)
-{
-    Observe();
-
-    Question();
-
-    Learn();
-
-    Build();
-
-    Break();
-
-    Improve();
-
-    Repeat();
-}
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-> **Every system hides a story.**  
-> **I enjoy discovering how it works, why it breaks, and how it can become better.**
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-  
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-
-# PHILOSOPHY
-
-</div>
-
-<br>
-
-> **I don't build projects to demonstrate what I know.**
->
-> **I build systems to discover what I don't.**
-
-<br>
-
-```
-Question assumptions.
-
-Understand deeply.
-
-Design intentionally.
-
-Build relentlessly.
-
-Refine continuously.
-```
-
----
-
-<div align="center">
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-# SYSTEMS
-
-Every repository is an exploration.
-
-## ◉ SYSTEM 01 — NEXUS
-
-### Can attendance become intelligent instead of manual?
-
----
-
-#### Architecture
-
-```text
-Timetable / Attendance Sheet
-
-            ↓
-
-        OCR Engine
-
-            ↓
-
- Gemini Flash API
-
-            ↓
-
-Structured Attendance Engine
-
-            ↓
-
-MongoDB Database
-
-            ↓
-
-Attendance Analytics
-```
-
----
-
-#### Engineering Challenges
-
-- Built resilient parsing logic for inconsistent timetable layouts across multiple classes.
-- Corrected AI-generated attendance percentage calculations by redesigning denominator computation.
-- Improved OCR reliability for noisy and differently formatted attendance sheets.
-
----
-
-#### Outcome
-
-An intelligent attendance monitoring system that eliminates repetitive manual entry while providing accurate attendance tracking and analytics.
-
----
-
-#### Stack
-
-`Node.js` `MongoDB` `OCR` `Gemini Flash API`
-</div>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-<table width="100%">
-<tr>
-
-<td width="50%">
-
-<h3>◉ Identity</h3>
-
-Computer Science Student
-
-CGPA • 7.71 / 10
-
-</td>
-
-<td width="50%">
-
-<h3>◉ Mission</h3>
-
-Engineering clarity from complexity.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3>◉ Current Explorations</h3>
-
-• Artificial Intelligence<br>
-• Machine Learning<br>
-• Large Language Models<br>
-• Data Analytics<br>
-• Business Analytics<br>
-• Software Architecture<br>
-• System Design<br>
-• Backend Engineering
-
-</td>
-
-<td width="50%">
-
-<h3>◉ Current State</h3>
-
-🟢 Building
-
-🟢 Learning
-
-🟢 Evolving
-
-</td>
-
-</tr>
-
-</table>
-
-<div align="center">
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-<pre>
-
-while (alive)
-{
-    Observe();
-
-    Question();
-
-    Learn();
-
-    Build();
-
-    Break();
-
-    Improve();
-
-    Repeat();
-}
-
-</pre>
-
-</div>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-
-
-<div align="center">
-
-
-<div align="center">
-
-<br>
-
-
-*Building intelligent systems from first principles.*
-
-<br>
-
-<!-- Typing animation will go here -->
-
-</div>
-
----
-
-<!-- Banner -->
-
-<p align="center">
-  <img src="./assets/svg/banner.svg" width="100%" alt="Curiosity Engine Banner">
-</p>
-
-# KASHYAP NASIT
-### *Driven by curiosity. Guided by understanding. Defined by creation.*
-
-> Engineering clarity from complexity.
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Engineering+Intelligent+Systems;Machine+Learning+Enthusiast;Data+Analytics+Explorer;Full+Stack+Developer;Always+Exploring." />
-</p>
-
-<br>
-<br>
-
-# Initialize
-
-```cpp
-while (alive)
-{
-    Observe();
-
-    Question();
-
-    Learn();
-
-    Build();
-
-    Break();
-
-    Improve();
-
-    Repeat();
-
-}
-```
-
-<br>
-<br>
-
-```
-Initializing Cognitive Engine...
-
-Loading Curiosity................. ███████████████ 100%
-
-Loading Creativity................ ███████████████ 100%
-
-Loading Systems Thinking.......... ███████████████ 100%
-
-Loading Persistence............... ███████████████ 100%
-
-Status............................ ONLINE
-
-```
-
-> Every system tells a story.
->
+> Every system hides a story.
 > I enjoy discovering how it works,
 > why it breaks,
 > and how it can become better.
-<!-- Typing Animation -->
 
-Computer Science Student
+**Driven by curiosity. Guided by understanding. Defined by creation.**
 
-Engineering Intelligent Systems
+</td>
+<td width="45%" valign="top">
 
-Machine Learning Enthusiast
+```bash
+$ whoami
+kashyap-nasit — cs-undergrad
 
-Data Analytics Explorer
+$ status
+role      : engineer-in-progress
+focus     : ai · data · systems
+location  : surat, gujarat, in
+cgpa      : 7.71 / 10.00
 
-Full Stack Developer
+$ mission
+"engineering clarity from complexity"
+```
 
-Always Exploring
-</div>
+</td>
+</tr>
+</table>
 
----
+<img src="assets/svg/divider.svg" width="100%" />
+
+## Systems
+
+<sub>Not projects — engineering systems, each solving a specific problem.</sub>
+
+<br/>
+
+<table>
+<tr><td width="100%">
+
+### 01 · Nexus — Attendance Intelligence
+
+**Question** — Can attendance be logged accurately from a photo of a timetable, without manual entry?
+
+**Architecture** — Timetable and attendance-sheet images pass through OCR to extract raw text, which is then interpreted by the Gemini Flash API to identify students, subjects, and presence — producing structured records stored in MongoDB.
+
+**Engineering challenges** — Timetable layouts vary significantly across classes, which initially broke OCR parsing; the extraction logic had to be made layout-agnostic. A separate bug in the AI-generated attendance-percentage logic used an incorrect denominator, silently distorting results until it was traced and corrected.
+
+**Outcome** — A working pipeline that turns unstructured classroom documents into reliable, queryable attendance data.
+
+**Stack** — `Gemini Flash API` `OCR` `Node.js` `MongoDB`
+
+</td></tr>
+<tr><td width="100%">
+
+### 02 · Construction Intelligence Platform
+
+**Question** — Can raw financial documents and informal site updates be turned into structured operational knowledge?
+
+**Architecture** — Transaction PDFs are auto-parsed into a structured database with an AI chatbot layered on top for querying. An LLM-driven ingestion pipeline is being built to read WhatsApp and Telegram messages from site workers and convert them into structured progress records, with human review for low-confidence extractions.
+
+**Engineering challenges** — Informal, inconsistent field messages (typos, mixed language, shorthand) resist naive parsing — the pipeline needs a confidence-scoring layer rather than a binary parse/fail approach.
+
+**Outcome** — A construction management platform where financial and operational data flow into one structured system instead of scattered documents and chat threads. *Currently under active development.*
+
+**Roadmap** — WhatsApp integration · Telegram integration · Multi-agent extraction pipeline
+
+**Stack** — `Next.js` `LLM Agents` `PDF Parsing` `MongoDB`
+
+</td></tr>
+<tr><td width="100%">
+
+### 03 · Healthcare Management System
+
+**Question** — How do you design a database layer that stays reliable as multiple modules read and write against it concurrently?
+
+**Architecture** — A collaborative 4-person build; owned schema design, query optimization, and data integrity for the system's core workflows.
+
+**Outcome** — A functioning healthcare management system with a database layer built to hold up under real multi-module usage.
+
+**Stack** — `SQL` `Database Design`
+
+</td></tr>
+<tr><td width="100%">
+
+### 04 · Silicon Lottery
+
+**Question** — Why do two chips from the same production line perform differently?
+
+**Architecture** — A Computer Organization & Architecture project simulating manufacturing variance in processor dies, and modeling how that variance produces the real-world phenomenon of chip binning.
+
+**Outcome** — A working explanation, backed by simulation, of why hardware yield and overclocking headroom aren't uniform even within the same silicon batch.
+
+**Stack** — `Computer Architecture` `Simulation`
+
+</td></tr>
+<tr><td width="100%">
+
+### 05 · EV Analytics — Indian Market
+
+**Question** — What do adoption and performance trends across India's EV market actually look like once the noise is cleaned out?
+
+**Architecture** — Raw EV datasets cleaned and modeled, then visualized in an interactive Power BI dashboard covering range, charging behavior, and market growth.
+
+**Outcome** — A dashboard that turns a messy public dataset into a clear, explorable view of the Indian EV landscape. Built for a data science course.
+
+**Stack** — `Power BI` `Data Modeling` `DAX`
+
+</td></tr>
+<tr><td width="100%">
+
+### 06 · Personal Portfolio
+
+**Question** — What's the simplest, fastest way to represent my work without relying on a template?
+
+**Architecture** — A responsive site built from scratch to showcase projects and background.
+
+**Outcome** — My own space on the internet, built rather than templated.
+
+**Stack** — `HTML` `CSS` `JavaScript`
+
+</td></tr>
+</table>
+
+<img src="assets/svg/divider.svg" width="100%" />
+
+## Craft
+
+<table>
+<tr>
+<td valign="top" width="20%">
+
+**Languages**
+
+C
+C++
+Java
+Python
+JavaScript
+PHP
+SQL
+HTML / CSS
+
+</td>
+<td valign="top" width="20%">
+
+**Backend**
+
+Node.js
+Express
+MongoDB
+MySQL
+REST APIs
+Git
+
+</td>
+<td valign="top" width="20%">
+
+**AI**
+
+OCR
+Gemini API
+Machine Learning
+Scikit-Learn
+
+</td>
+<td valign="top" width="20%">
+
+**Data Science**
+
+Pandas
+NumPy
+Matplotlib
+Streamlit
+Power BI
+
+</td>
+<td valign="top" width="20%">
+
+**Domains**
+
+AI / ML
+Business Analytics
+System Design
+Computer Networks
+Computer Architecture
+
+</td>
+</tr>
+</table>
+
+<img src="assets/svg/divider.svg" width="100%" />
+
+## Current Exploration
+
+<table>
+<tr>
+<td width="48%" align="center">
+<img src="assets/svg/learning-radar.svg" width="100%" />
+</td>
+<td width="52%" align="center">
+<img src="assets/svg/tech-constellation.svg" width="100%" />
+</td>
+</tr>
+</table>
+
+<img src="assets/svg/divider.svg" width="100%" />
+
+## Signal
+
 <div align="center">
 
-<!-- ===================== -->
-<!--        BANNER         -->
-<!-- ===================== -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kashyapnasit109&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=6c5ce7&icon_color=a29bfe&text_color=c9c6db&border_radius=14" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapnasit109&hide_border=true&background=0D0D14&stroke=26263a&ring=6C5CE7&fire=A29BFE&currStreakLabel=A29BFE&sideLabels=C9C6DB&currStreakNum=E6E6F0&sideNums=E6E6F0&dates=6C5CE7" />
 
-<!-- Banner.svg -->
+<br/>
 
-<!-- Typing Animation -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kashyapnasit109&bg_color=0d0d14&color=a29bfe&line=6c5ce7&point=e6e6f0&area=true&hide_border=true" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kashyapnasit109/kashyapnasit109/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kashyapnasit109/kashyapnasit109/output/snake-dark.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<img height="150" src="https://leetcard.jacoblin.cool/your-leetcode-handle?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kashyapnasit109&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kashyapnasit109&style=flat-square&color=6c5ce7&label=PROFILE+VIEWS" />
 
 </div>
 
-<br>
+<img src="assets/svg/divider.svg" width="100%" />
 
-# Ⅰ • Arrival
+<div align="center">
 
----
+<sub>Built from scratch — no template. Last structural update tracked via commit history.</sub>
 
-# Ⅱ • Boot Sequence
-
----
-
-# Ⅲ • Operating Principles
-
----
-
-# Ⅳ • Who Am I?
-
----
-
-# Ⅴ • The Toolbox
-
----
-
-# Ⅵ • The Workshop
-
----
-
-# Ⅶ • Evidence
-
----
-
-# Ⅷ • Current Curiosities
-
----
-
-# Ⅸ • Beyond Code
-
----
-
-# Ⅹ • Connect
-
----
-
-# Final Transmission
+</div>
