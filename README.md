@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/-LinkedIn-0d0d14?style=flat-square&logo=linkedin&logoColor=a29bfe" /></a>
-<a href="https://leetcode.com/u/your-handle/"><img src="https://img.shields.io/badge/-LeetCode-0d0d14?style=flat-square&logo=leetcode&logoColor=a29bfe" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-0d0d14?style=flat-square&logo=gmail&logoColor=a29bfe" /></a>
+<a href="https://www.linkedin.com/in/your-handle"><img src="https://www.linkedin.com/in/kashyap-nasit-5240b3341?style=flat-square&logo=linkedin&logoColor=a29bfe" /></a>
+<a href="https://leetcode.com/u/your-handle/"><img src="https://leetcode.com/u/Kashyap_Nasit_2007/?style=flat-square&logo=leetcode&logoColor=a29bfe" /></a>
+<a href="mailto:your@email.com"><img src="mailto:Kashyapnasit12345@gmail.com?style=flat-square&logo=gmail&logoColor=a29bfe" /></a>
 
 </div>
 
