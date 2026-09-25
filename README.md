@@ -1,12 +1,12 @@
 <!--
-  Kashyap Nasit — profile README
-  Every visual below is a hand-built, animated SVG in /assets/readme (no JS, no external fonts — GitHub-safe).
+  Kashyap Nasit — profile README.
+  Every visual is a hand-built, animated SVG in /assets/readme: no JavaScript, fonts embedded, GitHub-safe.
 -->
 
 <div align="center">
 
 <a href="https://kashyap-portfolio-site.vercel.app/">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Kashyap Nasit — Computer Science undergraduate working on applied AI, data engineering and systems. 'If you can simulate it, you can master it.'"/>
+  <img src="./assets/readme/hero.svg" width="100%" alt="Kashyap Nasit — computer science undergraduate from Surat, India. Engineering clarity from complexity. Field notes: lost a week to one wrong denominator, now audits every fraction; simulates the silicon lottery for fun but hasn't won a real one; converts chai into confidence scores; believes every messy dataset is just a shy database."/>
 </a>
 
 <br/>
@@ -18,31 +18,37 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
-<img src="./assets/readme/sec-01-manifest.svg" width="100%" alt="01 — Manifest"/>
+<img src="./assets/readme/sec-01-thesis.svg" width="100%" alt="I. Thesis — chaos is just order we haven't simulated yet"/>
+
+<img src="./assets/readme/thesis.svg" width="100%" alt="A rotating 3D Lorenz attractor. The Lorenz system, 1963: dx/dt = σ(y − x), dy/dt = x(ρ − z) − y, dz/dt = xy − βz. Deterministic rules, unpredictable outcomes. Simulate them and chaos turns legible — find the rules underneath the noise."/>
+
+<br/><br/>
+
+<img src="./assets/readme/sec-02-manifest.svg" width="100%" alt="II. Manifest — how I think about engineering"/>
 
 <img src="./assets/readme/about.svg" width="100%" alt="Every system hides a story. I enjoy discovering how it works, why it breaks, and how it can become better. Driven by curiosity, guided by understanding, defined by creation. whoami: kashyap-nasit, CS undergrad. Role: engineer-in-progress. Focus: AI, data, systems. Location: Surat, Gujarat, India. CGPA 7.71/10. Mission: engineering clarity from complexity."/>
 
 <br/><br/>
 
-<img src="./assets/readme/sec-02-systems.svg" width="100%" alt="02 — Systems: not projects, engineering systems, each solving one problem"/>
+<img src="./assets/readme/sec-03-systems.svg" width="100%" alt="III. Systems — not projects, engineered answers to specific questions"/>
 
 <p align="center">
-  <a href="https://github.com/kashyapnasit109/Nexus"><img src="./assets/readme/card-01-nexus.svg" width="49%" alt="01 Nexus — attendance intelligence from a photo of a timetable. OCR, Gemini Flash, Node.js, MongoDB."/></a>
-  <a href="https://github.com/kashyapnasit109/DOQ_KB"><img src="./assets/readme/card-02-doq.svg" width="49%" alt="02 DOQ — construction intelligence: PDFs and site-worker messages into one structured source of truth. Next.js, LLM agents, PDF parsing, MongoDB. Active development."/></a>
+  <a href="https://github.com/kashyapnasit109/Nexus"><img src="./assets/readme/card-01-nexus.svg" width="49%" alt="No. 01 Nexus — attendance intelligence from a photo of a timetable. OCR, Gemini Flash, Node.js, MongoDB."/></a>
+  <a href="https://github.com/kashyapnasit109/DOQ_KB"><img src="./assets/readme/card-02-doq.svg" width="49%" alt="No. 02 DOQ — construction intelligence: scattered invoices, PDFs and field updates into one structured source of truth. Next.js, LLM agents, PDF parsing, MongoDB. Active development."/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/kashyapnasit109/Silicon-Lottery"><img src="./assets/readme/card-03-wafer.svg" width="49%" alt="03 Silicon Lottery — simulating manufacturing variance and chip binning. TypeScript, simulation, computer architecture."/></a>
-  <img src="./assets/readme/card-04-db.svg" width="49%" alt="04 Healthcare Management System — a database layer built for concurrent multi-module use. SQL, schema design, query optimization."/>
+  <a href="https://github.com/kashyapnasit109/Silicon-Lottery"><img src="./assets/readme/card-03-wafer.svg" width="49%" alt="No. 03 Silicon Lottery — simulating manufacturing variance and chip binning. TypeScript, simulation, computer architecture."/></a>
+  <img src="./assets/readme/card-04-db.svg" width="49%" alt="No. 04 Healthcare Management System — a database layer built for concurrent multi-module use. SQL, schema design, query optimization."/>
 </p>
 <p align="center">
-  <img src="./assets/readme/card-05-ev.svg" width="49%" alt="05 EV Analytics — India's EV market, cleaned and modeled in Power BI. Power BI, DAX, data modeling."/>
-  <a href="https://kashyap-portfolio-site.vercel.app/"><img src="./assets/readme/card-06-web.svg" width="49%" alt="06 Personal Portfolio — built from scratch, not templated. HTML, CSS, JavaScript, Vercel."/></a>
+  <img src="./assets/readme/card-05-ev.svg" width="49%" alt="No. 05 EV Analytics — India's EV market, cleaned and modeled in Power BI. Power BI, DAX, data modeling."/>
+  <a href="https://kashyap-portfolio-site.vercel.app/"><img src="./assets/readme/card-06-web.svg" width="49%" alt="No. 06 Personal Portfolio — built from scratch, not templated. HTML, CSS, JavaScript, Vercel."/></a>
 </p>
 
 <details>
-<summary><b>01 · Nexus — engineering notes</b></summary>
+<summary><b>No. 01 — Nexus · field notes</b></summary>
 <br/>
 
 > **Question** — Can attendance be logged accurately from a photo of a timetable, without manual entry?
@@ -58,7 +64,7 @@
 </details>
 
 <details>
-<summary><b>02 · DOQ — Construction Intelligence Platform — engineering notes</b></summary>
+<summary><b>No. 02 — DOQ — Construction Intelligence Platform · field notes</b></summary>
 <br/>
 
 > **Question** — Can raw financial documents and informal site updates be turned into structured operational knowledge?
@@ -76,7 +82,7 @@
 </details>
 
 <details>
-<summary><b>03 · Silicon Lottery — engineering notes</b></summary>
+<summary><b>No. 03 — Silicon Lottery · field notes</b></summary>
 <br/>
 
 > **Question** — Why do two chips from the same production line perform differently?
@@ -90,7 +96,7 @@
 </details>
 
 <details>
-<summary><b>04 · Healthcare Management System — engineering notes</b></summary>
+<summary><b>No. 04 — Healthcare Management System · field notes</b></summary>
 <br/>
 
 > **Question** — How do you design a database layer that stays reliable as multiple modules read and write against it concurrently?
@@ -104,7 +110,7 @@
 </details>
 
 <details>
-<summary><b>05 · EV Analytics — Indian Market — engineering notes</b></summary>
+<summary><b>No. 05 — EV Analytics — Indian Market · field notes</b></summary>
 <br/>
 
 > **Question** — What do adoption and performance trends across India's EV market actually look like once the noise is cleaned out?
@@ -118,7 +124,7 @@
 </details>
 
 <details>
-<summary><b>06 · Personal Portfolio — engineering notes</b></summary>
+<summary><b>No. 06 — Personal Portfolio · field notes</b></summary>
 <br/>
 
 > **Question** — What's the simplest, fastest way to represent my work without relying on a template?
@@ -135,7 +141,13 @@
 
 <br/><br/>
 
-<img src="./assets/readme/sec-03-craft.svg" width="100%" alt="03 — Craft"/>
+<img src="./assets/readme/sec-04-method.svg" width="100%" alt="IV. Method — the one shape all my work shares"/>
+
+<img src="./assets/readme/method.svg" width="100%" alt="Entropy to structure: scattered particles pass through a lens and settle into an ordered lattice. Unstructured signal in, structured knowledge out — the same shape in Nexus, DOQ and EV Analytics."/>
+
+<br/><br/>
+
+<img src="./assets/readme/sec-05-craft.svg" width="100%" alt="V. Craft — the instruments behind the systems"/>
 
 <img src="./assets/readme/craft.svg" width="100%" alt="Languages: C, C++, Java, Python, JavaScript, TypeScript, PHP, SQL. Backend: Node.js, Express, Next.js, MongoDB, MySQL, REST APIs, Git. Applied AI: LLM agents, OCR pipelines, Gemini API, machine learning, scikit-learn. Data: Pandas, NumPy, Matplotlib, Streamlit, Power BI, DAX. Domains: system design, computer networks, computer architecture, business analytics, AI/ML."/>
 
@@ -143,13 +155,15 @@
 
 <br/><br/>
 
-<img src="./assets/readme/sec-04-orbit.svg" width="100%" alt="04 — Orbit: what I'm exploring right now"/>
+<img src="./assets/readme/sec-06-inquiry.svg" width="100%" alt="VI. Inquiry — open questions, and where my attention orbits"/>
 
-<img src="./assets/readme/orbit.svg" width="100%" alt="Currently exploring: OCR pipelines, Gemini API, LLM agents, confidence scoring, data engineering, multi-agent extraction, system design, WhatsApp and Telegram ingestion, machine learning."/>
+<img src="./assets/readme/questions.svg" width="100%" alt="Open questions. Q1: What makes a parser truly layout-agnostic? (raised by Nexus) Q2: How should a pipeline behave when it is only partly sure? (raised by DOQ) Q3: Can many small agents read a messy message better than one large one? (raised by DOQ's roadmap)"/>
+
+<img src="./assets/readme/orbit.svg" width="100%" alt="Currently exploring: OCR pipelines, Gemini API, LLM agents, confidence scoring, data engineering, multi-agent extraction, system design, conversational data, machine learning."/>
 
 <br/><br/>
 
-<img src="./assets/readme/sec-05-signal.svg" width="100%" alt="05 — Signal"/>
+<img src="./assets/readme/sec-07-signal.svg" width="100%" alt="VII. Signal — activity, streaks and deliberate practice"/>
 
 <div align="center">
 
