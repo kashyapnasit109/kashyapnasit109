@@ -186,12 +186,17 @@ def snake(snake_svg):
          T(84, 132, "A year of commits,", "SG6", 30, TXT, ls=-.8), T(84, 168, "eaten one day at a time.", "SG6", 30, VIO2, ls=-.8),
          T(84, 272, "regenerated every twelve hours", "JB4", 10.5, DIM, ls=1.5)]
     if snake_svg:
-        m = re.search(r'viewBox="([\d.\-]+)\s+([\d.\-]+)\s+([\d.]+)\s+([\d.]+)"', snake_svg)
-        vw, vh = (float(m.group(3)), float(m.group(4))) if m else (880, 192)
+        # Inline the snake's own markup (not an <image>): animations inside a nested
+        # image never run when GitHub shows the SVG through an <img> tag.
+        root = re.search(r"<svg\b[^>]*>", snake_svg)
+        vb = re.search(r'viewBox="([^"]+)"', root.group(0))
+        vbs = vb.group(1) if vb else "0 0 880 192"
+        vw, vh = [float(v) for v in vbs.split()[2:4]]
+        inner = snake_svg[root.end():snake_svg.rindex("</svg>")]
+        inner = re.sub(r"<desc>.*?</desc>", "", inner, flags=re.S)
         iw = 620; ih = iw * vh / vw
-        data = base64.b64encode(snake_svg.encode()).decode()
         b.append(f'<rect x="482" y="{165-ih/2-16:.1f}" width="{iw+26}" height="{ih+32:.1f}" rx="12" fill="{PANEL}" stroke="{LINE}"/>')
-        b.append(f'<image x="495" y="{165-ih/2:.1f}" width="{iw}" height="{ih:.1f}" href="data:image/svg+xml;base64,{data}"/>')
+        b.append(f'<svg x="495" y="{165-ih/2:.1f}" width="{iw}" height="{ih:.1f}" viewBox="{vbs}">{inner}</svg>')
     return canvas(W, H, "".join(b), "Contribution snake")
 
 def leetcode(lc, handle):
